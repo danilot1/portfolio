@@ -13,6 +13,11 @@ header {
     padding: 20px;
 }
 
+header img{
+    border-radius: 20px;
+    height: 180px;
+    width: 120;
+}
 nav ul {
     list-style: none;
     padding: 0;
