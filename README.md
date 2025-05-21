@@ -1,2 +1,2 @@
 # Portifólio
-# GQ1 da disciplina Porgamação web e mobile 25.1
+## GQ1 da disciplina Progamação web e mobile 25.1
